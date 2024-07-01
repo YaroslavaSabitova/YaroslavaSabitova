@@ -8,15 +8,15 @@
 
 
 
-✍️ Постоянно изучаю что-то новое
+✍️ Постоянно изучаю что-то новое;
 
-🚵‍♀️ 🤸‍♀️ Немного занимаюсь спортом 
+🚵‍♀️ 🤸‍♀️ Немного занимаюсь спортом;
 
 🌱🌳🐱 Люблю природу и животных
 
 
 
-⚙️ **Основной стек:** HTML5, Grid, Flexbox, Bootstrap, SCSS, SASS, Gulp, npm, БЭМ, Git, GitHub, GitLab, Figma, Photoshop, JavaScript (Junior).
+⚙️ **Основной стек:** HTML5, Grid, Flexbox, Bootstrap, SCSS, SASS, Gulp, npm, БЭМ, Git, GitHub, GitLab, Figma, Photoshop, JavaScript.
 
 
 
