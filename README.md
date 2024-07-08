@@ -41,8 +41,8 @@
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-<br>
 
+<br>
 
 ⚙️ **Изучала:**
 
@@ -51,19 +51,25 @@
 
 <br>
 
-🏹**Интересы:**
+🏹 **Цели:**
 
-* алгоритмы
-* анализ данных
-* китайский язык и культура
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+<br>
+а так же
+* алгоритмы;
+* анализ данных;
+* китайский язык и культура;
+* to be continued....
 
 <br>
 
-👍**Контакты:**
+👍 **Контакты:**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YaroslavaSabitova)
 <br>
-[![portfolio](https://img.shields.io/badge/my_portfolio-238866?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yaroslavasabitova.github.io/yaroslava_sabitova/) 
+[![portfolio](https://img.shields.io/badge/my_portfolio-C00079?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yaroslavasabitova.github.io/yaroslava_sabitova/) 
 
 
 
